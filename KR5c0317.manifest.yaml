@@ -1,0 +1,1020 @@
+canonical_identifier: bkk:krp/KR5c0317/v1
+canonical_location: https://kanripo.org/bkk/KR5c0317/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 神仙傳
+  identifiers:
+    alt_id:
+    - CH2c1338
+  tags:
+    kr-categories: KR5c
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0317.xml
+  edition:
+    short: bkk
+editions:
+- short: krp
+- short: WYG
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0317_000.yaml, hash: 'sha256:1c6b0b1083b6eb8e0d0a51a6dfb2493aab61686c88971d4ddbd5f481f0b674be'}
+  - {seq: 1, filename: KR5c0317_001.yaml, hash: 'sha256:eb3326521e5a8567f6f82a0d452bee36f37db448fe40f23c0775da6f8324411e'}
+  - {seq: 2, filename: KR5c0317_002.yaml, hash: 'sha256:12fce1e7286bbe7ca62abb506f9a8d91bb22d9d67af6662ed2ff9976783f7a0f'}
+  - {seq: 3, filename: KR5c0317_003.yaml, hash: 'sha256:0b0d9dba8b82f3ff385aec50ae768b5ee60b8bfc27b8513b3867ccbe3e1d6d5a'}
+  - {seq: 4, filename: KR5c0317_004.yaml, hash: 'sha256:c55a30ab4d1cccc8210c38b6a5c61c65b47ff4c3be2baabc7aa76151dac8b8be'}
+  - {seq: 5, filename: KR5c0317_005.yaml, hash: 'sha256:06fd62c5bb4374d0977da1a5f075c867b4634e269bb104c4db69d3c8845a33eb'}
+  - {seq: 6, filename: KR5c0317_006.yaml, hash: 'sha256:c8dcf408d0ecdb79b382e35601b7da4cccec64f00d8334c4e6f92af1bfaae35f'}
+  - {seq: 7, filename: KR5c0317_007.yaml, hash: 'sha256:11b677b778759f744bf11687b36d4acf1b601263b80e79c5fc652cb66eb45d4a'}
+  - {seq: 8, filename: KR5c0317_008.yaml, hash: 'sha256:23ee4d2ad1b236bab827b92a9507b1b417ee132f3d2d5b1c1e6ce7919a5ae328'}
+  - {seq: 9, filename: KR5c0317_009.yaml, hash: 'sha256:8db4f41d05b55767dbf22571d462c0fb14004ff30063add87a307f421e7ae22c'}
+  - {seq: 10, filename: KR5c0317_010.yaml, hash: 'sha256:d881b315cb72eb0edc23705df32c0a2a730138dbc08f00d5f97d342dfd37b78b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0317_000.markers.yaml, hash: 'sha256:9c2088e78ae024fe568e3c47289b691ac4589567add52769a6e9598ed041cf76'}
+  - {seq: 1, role: markers, filename: assets/KR5c0317_001.markers.yaml, hash: 'sha256:9ff14ccfcf37280129a986b910874f929248812d59176c482a84c66b1595a5f9'}
+  - {seq: 2, role: markers, filename: assets/KR5c0317_002.markers.yaml, hash: 'sha256:a6e19c5fb48dedc33ec276cc979031abc95e9bc3812aadc9996715dde98b225b'}
+  - {seq: 3, role: markers, filename: assets/KR5c0317_003.markers.yaml, hash: 'sha256:791a44f6e6108992a1fd7c06830a62ebfd43352f7819cd508343174401fa3564'}
+  - {seq: 4, role: markers, filename: assets/KR5c0317_004.markers.yaml, hash: 'sha256:30b756c85f426d0445884fa21818fe6a08f4af23fbdc0fa487e50ecb4bdcd43d'}
+  - {seq: 5, role: markers, filename: assets/KR5c0317_005.markers.yaml, hash: 'sha256:6ce1b989a6d829449d725d0f390e31981a89bac243cfcf63684b735a43b86814'}
+  - {seq: 6, role: markers, filename: assets/KR5c0317_006.markers.yaml, hash: 'sha256:de99dc79104b626107eac725f21a56ee88b0ea71b2fc9057201c4cf8291bed77'}
+  - {seq: 7, role: markers, filename: assets/KR5c0317_007.markers.yaml, hash: 'sha256:9eebed32d336c5d4ab262479e59f93cafe91f6ec9d0e683c686cf98438f0b787'}
+  - {seq: 8, role: markers, filename: assets/KR5c0317_008.markers.yaml, hash: 'sha256:57ee756e743fd7bb3dd637626d107400257a5297578f6262315a60d3e796bcce'}
+  - {seq: 9, role: markers, filename: assets/KR5c0317_009.markers.yaml, hash: 'sha256:8f534f7b933bbb738f136cdb979a6f1370cb11cfa923c6275e14908708942dd8'}
+  - {seq: 10, role: markers, filename: assets/KR5c0317_010.markers.yaml, hash: 'sha256:2bef0ebb755a8bd92843fb7b6791bf9ffe8f0af536cd8f37436eee580e57964e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d12head.s1
+    span:
+    - front
+    - 0
+    - 629
+  label: 滕升問仙人有無而作所録凡八十四人序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d113head.s3
+    span:
+    - front
+    - 629
+    - 1037
+  label: 神仙傳原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d11head.s3
+    span:
+    - body
+    - 0
+    - 53
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d13head.s3
+    span:
+    - body
+    - 53
+    - 73
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d14head.s3
+    span:
+    - body
+    - 73
+    - 94
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d15head.s3
+    span:
+    - body
+    - 94
+    - 111
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d16head.s3
+    span:
+    - body
+    - 111
+    - 153
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d17head.s3
+    span:
+    - body
+    - 153
+    - 168
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d18head.s3
+    span:
+    - body
+    - 168
+    - 199
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d19head.s3
+    span:
+    - body
+    - 199
+    - 235
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d110head.s3
+    span:
+    - body
+    - 235
+    - 257
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d111head.s3
+    span:
+    - body
+    - 257
+    - 265
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5c0317_WYG_000-d112head.s3
+    span:
+    - body
+    - 265
+    - 286
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0317_WYG_001-d21head.s3
+    span:
+    - body
+    - 0
+    - 231
+  label: 廣成子
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0317_WYG_001-d22head.s1
+    span:
+    - body
+    - 231
+    - 580
+  label: 若士
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0317_WYG_001-d23head.s1
+    span:
+    - body
+    - 580
+    - 661
+  label: 沈文泰
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0317_WYG_001-d24head.s1
+    span:
+    - body
+    - 661
+    - 2288
+  label: 彭祖
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0317_WYG_001-d25head.s1
+    span:
+    - body
+    - 2288
+    - 2520
+  label: 白石生
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0317_WYG_001-d26head.s1
+    span:
+    - body
+    - 2520
+    - 2574
+  label: 黄山君
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0317_WYG_001-d27head.s1
+    span:
+    - body
+    - 2574
+    - 2647
+  label: 鳯綱
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0317_WYG_002-d31head.s3
+    span:
+    - body
+    - 0
+    - 338
+  label: 皇初平
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0317_WYG_002-d32head.s1
+    span:
+    - body
+    - 338
+    - 786
+  label: 呂恭
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0317_WYG_002-d33head.s1
+    span:
+    - body
+    - 786
+    - 1010
+  label: 沈建
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0317_WYG_002-d34head.s1
+    span:
+    - body
+    - 1010
+    - 1080
+  label: 華子期
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0317_WYG_002-d35head.s1
+    span:
+    - body
+    - 1080
+    - 1196
+  label: 樂子長
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0317_WYG_002-d36head.s1
+    span:
+    - body
+    - 1196
+    - 1681
+  label: 衞叔卿
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0317_WYG_002-d37head.s1
+    span:
+    - body
+    - 1681
+    - 2111
+  label: 魏伯陽
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0317_WYG_003-d41head.s3
+    span:
+    - body
+    - 0
+    - 600
+  label: 沈羲
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0317_WYG_003-d42head.s1
+    span:
+    - body
+    - 600
+    - 1085
+  label: 陳安世
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0317_WYG_003-d43head.s1
+    span:
+    - body
+    - 1085
+    - 1487
+  label: 李八伯
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0317_WYG_003-d44head.s1
+    span:
+    - body
+    - 1487
+    - 1783
+  label: 李阿
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0317_WYG_003-d45head.s1
+    span:
+    - body
+    - 1783
+    - 3518
+  label: 王逺
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0317_WYG_003-d46head.s1
+    span:
+    - body
+    - 3518
+    - 3732
+  label: 伯山甫
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d51head.s3
+    span:
+    - body
+    - 0
+    - 734
+  label: 墨子
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d52head.s1
+    span:
+    - body
+    - 734
+    - 1028
+  label: 劉政
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d53head.s1
+    span:
+    - body
+    - 1028
+    - 1393
+  label: 孫博
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d54head.s1
+    span:
+    - body
+    - 1393
+    - 1549
+  label: 班孟
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d55head.s1
+    span:
+    - body
+    - 1549
+    - 1911
+  label: 玉子
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d56head.s1
+    span:
+    - body
+    - 1911
+    - 2101
+  label: 天門子
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d57head.s1
+    span:
+    - body
+    - 2101
+    - 2295
+  label: 九靈子
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d58head.s1
+    span:
+    - body
+    - 2295
+    - 2364
+  label: 北極子
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d59head.s1
+    span:
+    - body
+    - 2364
+    - 2424
+  label: 絶洞子
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d510head.s1
+    span:
+    - body
+    - 2424
+    - 2636
+  label: 太陽子
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d511head.s1
+    span:
+    - body
+    - 2636
+    - 2714
+  label: 太陽女
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d512head.s1
+    span:
+    - body
+    - 2714
+    - 2950
+  label: 太隂女
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d513head.s1
+    span:
+    - body
+    - 2950
+    - 3198
+  label: 太𤣥女
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d514head.s1
+    span:
+    - body
+    - 3198
+    - 3326
+  label: 南極子
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0317_WYG_004-d515head.s1
+    span:
+    - body
+    - 3326
+    - 3457
+  label: 黄盧子
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0317_WYG_005-d61head.s3
+    span:
+    - body
+    - 0
+    - 188
+  label: 馬鳴生
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0317_WYG_005-d62head.s1
+    span:
+    - body
+    - 188
+    - 1161
+  label: 隂長生
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0317_WYG_005-d63head.s1
+    span:
+    - body
+    - 1161
+    - 2349
+  label: 茅君
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0317_WYG_005-d64head.s1
+    span:
+    - body
+    - 2349
+    - 2786
+  label: 張道陵
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0317_WYG_005-d65head.s1
+    span:
+    - body
+    - 2786
+    - 3176
+  label: 欒巴
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d71head.s3
+    span:
+    - body
+    - 0
+    - 446
+  label: 淮南王
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d72head.s1
+    span:
+    - body
+    - 446
+    - 2119
+  label: 李少君
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d73head.s1
+    span:
+    - body
+    - 2119
+    - 2708
+  label: 王真
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d74head.s1
+    span:
+    - body
+    - 2708
+    - 2745
+  label: 陳長
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d75head.s1
+    span:
+    - body
+    - 2745
+    - 2792
+  label: 劉綱
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d76head.s1
+    span:
+    - body
+    - 2792
+    - 3036
+  label: 樊夫人
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d77head.s1
+    span:
+    - body
+    - 3036
+    - 3227
+  label: 東陵聖母
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d78head.s1
+    span:
+    - body
+    - 3227
+    - 3315
+  label: 孔元
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d79head.s1
+    span:
+    - body
+    - 3315
+    - 3424
+  label: 王烈
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d710head.s1
+    span:
+    - body
+    - 3424
+    - 3496
+  label: 涉正
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d711head.s1
+    span:
+    - body
+    - 3496
+    - 3689
+  label: 焦先
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0317_WYG_006-d712head.s1
+    span:
+    - body
+    - 3689
+    - 3905
+  label: 孫登
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d81head.s3
+    span:
+    - body
+    - 0
+    - 216
+  label: 東郭延
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d82head.s1
+    span:
+    - body
+    - 216
+    - 260
+  label: 靈夀光
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d83head.s1
+    span:
+    - body
+    - 260
+    - 602
+  label: 劉京
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d84head.s1
+    span:
+    - body
+    - 602
+    - 699
+  label: 嚴青
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d85head.s1
+    span:
+    - body
+    - 699
+    - 835
+  label: 帛和
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d86head.s1
+    span:
+    - body
+    - 835
+    - 1154
+  label: 趙瞿
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d87head.s1
+    span:
+    - body
+    - 1154
+    - 1186
+  label: 宫嵩
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d88head.s1
+    span:
+    - body
+    - 1186
+    - 1201
+  label: 容成公
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d89head.s1
+    span:
+    - body
+    - 1201
+    - 1244
+  label: 董仲君
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d810head.s1
+    span:
+    - body
+    - 1244
+    - 1279
+  label: 倩平吉
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d811head.s1
+    span:
+    - body
+    - 1279
+    - 1335
+  label: 王仲都
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d812head.s1
+    span:
+    - body
+    - 1335
+    - 1551
+  label: 程偉妻
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0317_WYG_007-d813head.s1
+    span:
+    - body
+    - 1551
+    - 2545
+  label: 薊子訓
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0317_WYG_008-d91head.s3
+    span:
+    - body
+    - 0
+    - 458
+  label: 葛𤣥
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0317_WYG_008-d92head.s1
+    span:
+    - body
+    - 458
+    - 1598
+  label: 左慈
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0317_WYG_008-d93head.s1
+    span:
+    - body
+    - 1598
+    - 1962
+  label: 王遥
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0317_WYG_008-d94head.s1
+    span:
+    - body
+    - 1962
+    - 2083
+  label: 陳永伯
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0317_WYG_008-d95head.s1
+    span:
+    - body
+    - 2083
+    - 2273
+  label: 太山老父
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0317_WYG_008-d96head.s1
+    span:
+    - body
+    - 2273
+    - 2559
+  label: 巫炎
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0317_WYG_008-d97head.s1
+    span:
+    - body
+    - 2559
+    - 2962
+  label: 河上公
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0317_WYG_008-d98head.s1
+    span:
+    - body
+    - 2962
+    - 4257
+  label: 劉根
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5c0317_WYG_009-d101head.s3
+    span:
+    - body
+    - 0
+    - 1094
+  label: 壺公
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5c0317_WYG_009-d102head.s1
+    span:
+    - body
+    - 1094
+    - 1808
+  label: 尹軌
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5c0317_WYG_009-d103head.s1
+    span:
+    - body
+    - 1808
+    - 2741
+  label: 介象
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0317_WYG_010-d111head.s3
+    span:
+    - body
+    - 0
+    - 1181
+  label: 董奉
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0317_WYG_010-d112head.s1
+    span:
+    - body
+    - 1181
+    - 1543
+  label: 李根
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0317_WYG_010-d113head.s1
+    span:
+    - body
+    - 1543
+    - 1920
+  label: 李意期
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0317_WYG_010-d114head.s1
+    span:
+    - body
+    - 1920
+    - 2162
+  label: 王興
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0317_WYG_010-d115head.s1
+    span:
+    - body
+    - 2162
+    - 2390
+  label: 黄敬
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0317_WYG_010-d116head.s1
+    span:
+    - body
+    - 2390
+    - 2471
+  label: 魯女生
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0317_WYG_010-d117head.s1
+    span:
+    - body
+    - 2471
+    - 2539
+  label: 甘始
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0317_WYG_010-d118head.s1
+    span:
+    - body
+    - 2539
+    - 2640
+  label: 封君逹
+  type: section
+  level: 1
+hash: sha256:d19e8078663262445e04397d0361852563953ce1af2b601ec1a71b264f886731
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

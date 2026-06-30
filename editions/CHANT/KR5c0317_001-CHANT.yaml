@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5c0317/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神仙傳陶隱居遇神仙桓聞曰君之陰功著矣然所修本草用蝱蟲水蛭輩為藥功雖及人而害物命以此一紀後方得解形而去王次仲變篆為隸始皇召之不至將殺之次仲化為大鳥振翼而起使者拜曰無以復命恐見誅乃以三大翮墮與使者始皇因名其山曰落翮山劉政有道術能以一人作千人千人作萬人又能噓水興雲聚壤成山刺地成淵
+  hash: sha256:3f080779825b34661c34436c6720e9d7cc0a12fb594df5d267fe53401e6d1d7b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5c0317_CHANT_001-1a.1-h}
+metadata:
+  title: 神仙傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0317.xml
+hash: sha256:94c95d7f44bafada85bace0ddb2504f571c36459b85a78f99904c304b2fd969b

@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR5c0317/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR5c0317/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 神仙傳
+  identifiers:
+    krp: KR5c0317
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR5c
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0317.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR5c0317_001-CHANT.yaml, hash: 'sha256:94c95d7f44bafada85bace0ddb2504f571c36459b85a78f99904c304b2fd969b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0317_001-CHANT.markers.yaml, hash: 'sha256:cc8c820cc518f82f5542a418860e270ee555f550bb7b47e815546cea8b585187'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0317_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 137
+  label: 神仙傳
+  type: section
+  level: 1
+hash: sha256:9c3e993e5aa06f0a64e1ecbb9dd4131ef1f2ac7dd478d78e071e6db431af867b
