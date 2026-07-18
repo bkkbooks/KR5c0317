@@ -101,14 +101,18 @@ markers:
   - {type: 'tls:seg', offset: 590, content: '', id: KR5c0317_WYG_000-d12p2.s36}
   - {type: line-break, offset: 590, content: '', id: KR5c0317_WYG_000-bkklb36}
   - {type: punctuation, offset: 593, content: (, id: KR5c0317_WYG_000-bkkpn2}
+  - {type: voice, offset: 593, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 594, content: ), id: KR5c0317_WYG_000-bkkpn3}
   - {type: punctuation, offset: 596, content: (, id: KR5c0317_WYG_000-bkkpn4}
+  - {type: voice, offset: 596, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 597, content: ), id: KR5c0317_WYG_000-bkkpn5}
   - {type: punctuation, offset: 600, content: (, id: KR5c0317_WYG_000-bkkpn6}
+  - {type: voice, offset: 600, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 601, content: ), id: KR5c0317_WYG_000-bkkpn7}
   - {type: 'tls:seg', offset: 604, content: '', id: KR5c0317_WYG_000-d12p2.s37}
   - {type: line-break, offset: 604, content: '', id: KR5c0317_WYG_000-bkklb37}
   - {type: punctuation, offset: 607, content: (, id: KR5c0317_WYG_000-bkkpn8}
+  - {type: voice, offset: 607, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 608, content: ), id: KR5c0317_WYG_000-bkkpn9}
   - {type: page-break, offset: 611, content: '', id: KR5c0317_WYG_000-4a}
   - {type: 'tls:seg', offset: 611, content: '', id: KR5c0317_WYG_000-d12p2.s38}
@@ -192,6 +196,7 @@ markers:
   - {type: 'tls:seg', offset: 2, content: '', id: KR5c0317_WYG_000-d11p1.s4}
   - {type: line-break, offset: 2, content: '', id: KR5c0317_WYG_000-bkklb2}
   - {type: punctuation, offset: 2, content: (, id: KR5c0317_WYG_000-bkkpn1}
+  - {type: voice, offset: 2, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3, content: ), id: KR5c0317_WYG_000-bkkpn2}
   - {type: 'tls:seg', offset: 19, content: '', id: KR5c0317_WYG_000-d11p1.s5}
   - {type: line-break, offset: 19, content: '', id: KR5c0317_WYG_000-bkklb3}
@@ -406,4 +411,4 @@ markers:
   - {type: page-break, offset: 286, content: '', id: KR5c0317_WYG_000-8a}
   - {type: xml-element, offset: 286, content: '', id: KR5c0317_WYG_000-d112p4_end}
   back: []
-hash: sha256:63104721063889216990e4cdb5908a4e48f69d581c56815e9feb30706572ea6e
+hash: sha256:fec9f9f55de640525177c93ebe90d92592ddd90435e8a3dec57c20490d7cfd12
